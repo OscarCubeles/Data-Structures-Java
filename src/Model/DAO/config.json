@@ -1,0 +1,5 @@
+{
+  "DatasetTables": "datasets/tables/tablesXS.paed",
+  "DatasetGraphs": "datasets/graphs/graphXXS.paed",
+  "DatasetBinaryTrees": "datasets/binaryTree/treeXXS.paed"
+}
